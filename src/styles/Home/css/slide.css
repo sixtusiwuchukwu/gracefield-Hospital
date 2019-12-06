@@ -1,0 +1,15 @@
+.slider
+{
+    overflow: none;
+}
+
+.slider-image
+{
+    width: 300px;
+    flex-shrink: 0;
+    height: 100%;
+
+}
+.slider img{
+    width: 100vw
+}

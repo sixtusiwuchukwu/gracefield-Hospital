@@ -6,7 +6,7 @@ const Specials = () => {
   const [show, setShow] = useState(true);
   return (
     <div id="#specials">
-      <div className="container">
+      <div className="special-container">
         <center>
           <div>
             <h4>HAVE A LOOK AT</h4>
