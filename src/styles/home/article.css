@@ -1,0 +1,71 @@
+.art-image {
+  width: 100%;
+}
+.title {
+  padding: 60px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(29, 17, 17);
+}
+.title hr {
+  width: 100px;
+  background-color: #259dee;
+  height: 3px;
+}
+
+.contain-item {
+  width: 30%;
+  text-align: center;
+  background-color: white;
+}
+.contain-item p {
+  font-size: 20px;
+  color: rgb(211, 207, 207);
+}
+.art-btn1 {
+  background-color: #259dee;
+  color: white;
+  font-size: 15px;
+  width: 100px;
+  border: none;
+  height: 25px;
+  border-radius: 4px;
+  margin-top: 10px;
+  position: relative;
+  left: -100px;
+}
+.more {
+  display: flex;
+  justify-content: space-evenly;
+}
+.more button {
+  border: 1px solid #259dee;
+  border-radius: 50px;
+  color: #259dee;
+  background-color: transparent;
+}
+.more-btn {
+  color: #259dee;
+}
+.art-container {
+  display: flex;
+  justify-content: space-around;
+}
+.container-art {
+  margin-top: 120px;
+  background-color: #f7f7f7;
+  height: 740px;
+  margin-bottom: 50px;
+  padding-bottom: 40px;
+}
+.more-articles-btn {
+  position: relative;
+  top: 53px;
+  left: 550px;
+  color: white;
+  background-color: #259dee;
+  width: 170px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+}
